@@ -1,5 +1,12 @@
+/*
+Write a program named greeter.js that greets 'Victor' three times. 
+Your program should use a variable and not hard code the string value 'Victor' in each greeting.
+*/
+
+
 let name =' Victor';
 name= 'Taylor'
+//changed to my name to experiment
 console.log(`Good Morning,${name}.`);
 console.log(`Good Afternoon,${name}.`);
 console.log(`Good Evening,${name}.`);
